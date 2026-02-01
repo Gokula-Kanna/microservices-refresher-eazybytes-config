@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Eazybank cards dev related local API"
+  contactDetails:
+    name: "Stephen Hawking - product owner"
+    email: "stephenhawking@eazybank.com"
+  onCallSupport:
+    -(555)555-1233
+    -(555)523-1346
+

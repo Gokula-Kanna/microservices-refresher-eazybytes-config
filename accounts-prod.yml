@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Eazybank accounts prod related local API"
+  contactDetails:
+    name: "Jason Momoa - product owner"
+    email: "jasonmomoadev@eazybank.com"
+  onCallSupport:
+    -(555)555-1235
+    -(555)523-1346

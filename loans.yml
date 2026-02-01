@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+loans:
+  message: "Welcome to Eazybank loans dev related local API"
+  contactDetails:
+    name: "Michael jordan - product owner"
+    email: "michaeljordan@eazybank.com"
+  onCallSupport:
+    -(555)555-1234
+    -(555)523-1345
