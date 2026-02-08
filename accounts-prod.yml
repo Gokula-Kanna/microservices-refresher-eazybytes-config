@@ -5,7 +5,8 @@ accounts:
   message: "Welcome to Eazybank accounts prod related local API"
   contactDetails:
     name: "Jason Momoa - product owner"
-    email: "jasonmomoadev@eazybank.com"
+    email: "{cipher}1ccab2f1466a9e1778fb7ed27ca24d72447b908e79a057bdf354b07052d1af36ad2fd27e45b90b022050f21d3d39d444"
   onCallSupport:
     -(555)555-1235
     -(555)523-1346
+
